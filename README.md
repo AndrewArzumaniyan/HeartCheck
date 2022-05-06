@@ -1,3 +1,3 @@
 # HeartCheck
 * We are have a license
-* We are professinal developers
+* We are professional developers
